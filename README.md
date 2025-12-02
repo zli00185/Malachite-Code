@@ -4,7 +4,7 @@
 
 This repository contains the scripts and code I developed for "Malachite," the final project for UMD's MATH425 (Game Programming) class.
 
-**Important Note:** The complete game project, including assets, engine configuration, and integrated code from other team members, is privately hosted by its owner. This repository serves as a portfolio piece to specifically showcase my individual programming contributions. While the full, runnable game is not included here, the provided scripts demonstrate my technical skills in game development, particularly in AI and UI implementation.
+The complete game project, including assets, engine configuration, and integrated code from other team members, is privately hosted by its owner. This repository serves as a portfolio piece to specifically showcase my individual programming contributions. While the full, runnable game is not included here, the provided scripts demonstrate my technical skills in game development, particularly in AI and UI implementation.
 
 ## Project Description
 
